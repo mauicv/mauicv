@@ -8,3 +8,4 @@ I'm Alexander Athorne. I'm a research engineer with an interest in robotics and 
 | [![DreamerV2 with Transformer World Model](https://github.com/mauicv/world-model-rl/blob/main/assets/tssm-imagined-rollout.gif)](https://mauicv.com/#/posts/rl-world-model) | [![My blog](https://github.com/user-attachments/assets/dc2c6abf-7ca2-41a0-bd8b-a73eabd8d55c)](https://www.mauicv.com) |
 | DreamerV2 Transformer model | My blog |
 
+Also: [CV](https://mauicv.com/#/cv)
